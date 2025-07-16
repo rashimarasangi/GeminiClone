@@ -64,12 +64,11 @@
 }
 
 .main-bottom{
-    position: absolute;
-    bottom: 0;
+    
     width: 100%;
     max-width: 900px;
     padding: 0px 20px;
-    margin: auto;
+    margin: 30px auto;
     
 }
 .search-box{
@@ -80,6 +79,7 @@
     background-color: #f0f4f9;
     padding: 10px 20px;
     border-radius: 50px;
+    
 }
 .search-box img{
     width: 24px;
