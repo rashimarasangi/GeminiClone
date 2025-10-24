@@ -1,3 +1,36 @@
+# GeminiClone
+
+A frontend-focused clone of a modern AI chat interface inspired by Google Gemini — built to demonstrate UI/UX, chat layout, animations and UI state handling using React (or your chosen framework).
+
+## 🧠 Overview  
+This project replicates the look and feel of a conversational AI assistant interface.  
+It’s **frontend only** (no backend) and focuses on UI/UX, chat flows, message animations, and component structure.
+
+## 🔧 Features  
+- Chat interface with message bubbles for user & assistant  
+- Typing animation / simulated delay for responses  
+- Clean UI inspired by modern AI assistants  
+- Responsive design: supports desktop and mobile layouts  
+- Modular React components (or whichever framework you used)  
+- Mock data or placeholder responses (since no backend)  
+- Input field, message history scroll, clear chat functionality  
+
+## 🛠 Tech Stack  
+- **Frontend**: React.js (or Vue/Angular if applicable)  
+- **Styling**: Tailwind CSS / CSS Modules / Styled Components  
+- **Routing**: (Optional) React Router (if multiple views)  
+- **Build tools**: Create-React-App / Vite / Webpack  
+- **State management**: React Hooks / Context API (if used)  
+
+## 🚀 Getting Started  
+### Prerequisites  
+- Node.js (version 14+ recommended)  
+
+### Installation  
+```bash
+git clone https://github.com/rashimarasangi/GeminiClone.git
+cd GeminiClone
+npm install    # or `yarn install`
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
